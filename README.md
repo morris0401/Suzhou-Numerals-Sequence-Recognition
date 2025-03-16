@@ -56,7 +56,7 @@ You can modify these parameters as needed to adjust training and preprocessing b
 
 ### Example Usage
 ```bash
-python src/main.py --image_dir ./custom_dataset --batch_size 64 --num_epochs 30
+python src/main.py --image_dir --batch_size 64 --num_epochs 30
 ```
 
 ## License
