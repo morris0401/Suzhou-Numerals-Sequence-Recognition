@@ -1,0 +1,341 @@
+\begin{thebibliography}{69}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Abdou et~al.(2022)Abdou, Ravishankar, Kulmizev, and S{\o}gaard}]{abdou-etal-2022-word}
+Mostafa Abdou, Vinit Ravishankar, Artur Kulmizev, and Anders S{\o}gaard. 2022.
+\newblock \href {https://doi.org/10.18653/v1/2022.acl-long.476} {Word order does matter and shuffled language models know it}.
+\newblock In \emph{Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)}, pages 6907--6919, Dublin, Ireland. Association for Computational Linguistics.
+
+\bibitem[{Alleman et~al.(2021)Alleman, Mamou, A~Del~Rio, Tang, Kim, and Chung}]{alleman-etal-2021-syntactic}
+Matteo Alleman, Jonathan Mamou, Miguel A~Del~Rio, Hanlin Tang, Yoon Kim, and SueYeon Chung. 2021.
+\newblock \href {https://doi.org/10.18653/v1/2021.repl4nlp-1.27} {Syntactic perturbations reveal representational correlates of hierarchical phrase structure in pretrained language models}.
+\newblock In \emph{Proceedings of the 6th Workshop on Representation Learning for NLP (RepL4NLP-2021)}, pages 263--276, Online. Association for Computational Linguistics.
+
+\bibitem[{Bolhuis et~al.(2024)Bolhuis, Crain, Fong, and Moro}]{Bolhuis2024}
+Johan~J. Bolhuis, Stephen Crain, Sandiway Fong, and Andrea Moro. 2024.
+\newblock \href {https://doi.org/10.1038/d41586-024-00824-z} {Three reasons why {AI} doesn't model human language}.
+\newblock \emph{Nature}, 627(8004):489–489.
+
+\bibitem[{Chomsky(1956)}]{chomsky1956models}
+Noam Chomsky. 1956.
+\newblock \href {https://doi.org/10.1109/TIT.1956.1056813} {Three models for the description of language}.
+\newblock \emph{IRE Transactions on Information Theory}, 2(3):113--124.
+
+\bibitem[{Chomsky(1957)}]{chomsky1957syntactic}
+Noam Chomsky. 1957.
+\newblock \href {https://doi.org/doi:10.1515/9783112316009} {\emph{Syntactic Structures}}.
+\newblock De Gruyter Mouton, Berlin, Boston.
+
+\bibitem[{Chomsky(1959)}]{chomsky1959certain}
+Noam Chomsky. 1959.
+\newblock \href {https://doi.org/https://doi.org/10.1016/S0019-9958(59)90362-6} {On certain formal properties of grammars}.
+\newblock \emph{Information and Control}, 2(2):137--167.
+
+\bibitem[{Chomsky(1965)}]{chomsky1965aspects}
+Noam Chomsky. 1965.
+\newblock \emph{Aspects of the Theory of Syntax}.
+\newblock The MIT Press.
+
+\bibitem[{Chomsky(2002)}]{chomsky2002nature}
+Noam Chomsky. 2002.
+\newblock \href {https://doi.org/10.1017/CBO9780511613876} {\emph{On Nature and Language}}.
+\newblock Cambridge University Press.
+
+\bibitem[{Chomsky(2023)}]{chomsky2023cowen}
+Noam Chomsky. 2023.
+\newblock \href {https://conversationswithtyler.com/episodes/noam-chomsky/} {Conversations with {Tyler}: {Noam} {Chomsky}}.
+\newblock Conversations with {Tyler} Podcast.
+
+\bibitem[{Chomsky et~al.(2023)Chomsky, Roberts, and Watumull}]{chomsky2023nyt}
+Noam Chomsky, Ian Roberts, and Jeffrey Watumull. 2023.
+\newblock \href {https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html} {Noam {Chomsky}: The false promise of {ChatGPT}}.
+\newblock \emph{The New York Times}.
+
+\bibitem[{Comrie(1989)}]{comrie1989language}
+Bernard Comrie. 1989.
+\newblock \emph{Language universals and linguistic typology: Syntax and morphology}.
+\newblock University of Chicago press.
+
+\bibitem[{Deletang et~al.(2023)Deletang, Ruoss, Grau-Moya, Genewein, Wenliang, Catt, Cundy, Hutter, Legg, Veness, and Ortega}]{deletang2023neural}
+Gregoire Deletang, Anian Ruoss, Jordi Grau-Moya, Tim Genewein, Li~Kevin Wenliang, Elliot Catt, Chris Cundy, Marcus Hutter, Shane Legg, Joel Veness, and Pedro~A Ortega. 2023.
+\newblock \href {https://openreview.net/forum?id=WbxHAzkeQcn} {Neural networks and the {Chomsky} hierarchy}.
+\newblock In \emph{The Eleventh International Conference on Learning Representations}.
+
+\bibitem[{Devlin et~al.(2019)Devlin, Chang, Lee, and Toutanova}]{devlin-etal-2019-bert}
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. 2019.
+\newblock \href {https://doi.org/10.18653/v1/N19-1423} {{BERT}: Pre-training of deep bidirectional transformers for language understanding}.
+\newblock In \emph{Proceedings of the 2019 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)}, pages 4171--4186, Minneapolis, Minnesota. Association for Computational Linguistics.
+
+\bibitem[{Ebrahimi et~al.(2020)Ebrahimi, Gelda, and Zhang}]{ebrahimi-etal-2020-self}
+Javid Ebrahimi, Dhruv Gelda, and Wei Zhang. 2020.
+\newblock \href {https://doi.org/10.18653/v1/2020.findings-emnlp.384} {How can self-attention networks recognize {D}yck-n languages?}
+\newblock In \emph{Findings of the Association for Computational Linguistics: EMNLP 2020}, pages 4301--4306, Online. Association for Computational Linguistics.
+
+\bibitem[{Elman(1990)}]{elman1990finding}
+Jeffrey~L. Elman. 1990.
+\newblock \href {https://doi.org/https://doi.org/10.1016/0364-0213(90)90002-E} {Finding structure in time}.
+\newblock \emph{Cognitive Science}, 14(2):179--211.
+
+\bibitem[{Evans and Levinson(2009)}]{evans2009myth}
+Nicholas Evans and Stephen~C Levinson. 2009.
+\newblock The myth of language universals: Language diversity and its importance for cognitive science.
+\newblock \emph{Behavioral and brain sciences}, 32(5):429--448.
+
+\bibitem[{Everett(2012)}]{everett2012piraha}
+Daniel~L. Everett. 2012.
+\newblock \href {https://doi.org/https://doi.org/10.1002/wcs.1195} {What does {Pirahã} grammar have to teach us about human language and the mind?}
+\newblock \emph{WIREs Cognitive Science}, 3(6):555--563.
+
+\bibitem[{Futrell(2019)}]{futrell-2019-information}
+Richard Futrell. 2019.
+\newblock \href {https://doi.org/10.18653/v1/W19-7902} {Information-theoretic locality properties of natural language}.
+\newblock In \emph{Proceedings of the First Workshop on Quantitative Syntax (Quasy, SyntaxFest 2019)}, pages 2--15, Paris, France. Association for Computational Linguistics.
+
+\bibitem[{Futrell and Hahn(2022)}]{futrell2022information}
+Richard Futrell and Michael Hahn. 2022.
+\newblock \href {https://doi.org/10.3389/fcomm.2022.657725} {Information theory as a bridge between language function and language form}.
+\newblock \emph{Frontiers in Communication}, 7.
+
+\bibitem[{Futrell et~al.(2019)Futrell, Wilcox, Morita, Qian, Ballesteros, and Levy}]{futrell-etal-2019-neural}
+Richard Futrell, Ethan Wilcox, Takashi Morita, Peng Qian, Miguel Ballesteros, and Roger Levy. 2019.
+\newblock \href {https://doi.org/10.18653/v1/N19-1004} {Neural language models as psycholinguistic subjects: Representations of syntactic state}.
+\newblock In \emph{Proceedings of the 2019 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)}, pages 32--42, Minneapolis, Minnesota. Association for Computational Linguistics.
+
+\bibitem[{Galke et~al.(2023)Galke, Ram, and Raviv}]{galke2023makes}
+Lukas Galke, Yoav Ram, and Limor Raviv. 2023.
+\newblock \href {http://arxiv.org/abs/2302.12239} {What makes a language easy to deep-learn?}
+
+\bibitem[{Geiger et~al.(2021)Geiger, Lu, Icard, and Potts}]{geiger2021causal}
+Atticus Geiger, Hanson Lu, Thomas Icard, and Christopher Potts. 2021.
+\newblock \href {https://proceedings.neurips.cc/paper_files/paper/2021/file/4f5c422f4d49a5a807eda27434231040-Paper.pdf} {Causal abstractions of neural networks}.
+\newblock In \emph{Advances in Neural Information Processing Systems}, volume~34, pages 9574--9586. Curran Associates, Inc.
+
+\bibitem[{Geiger et~al.(2020)Geiger, Richardson, and Potts}]{geiger-etal-2020-neural}
+Atticus Geiger, Kyle Richardson, and Christopher Potts. 2020.
+\newblock \href {https://doi.org/10.18653/v1/2020.blackboxnlp-1.16} {Neural natural language inference models partially embed theories of lexical entailment and negation}.
+\newblock In \emph{Proceedings of the Third BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP}, pages 163--173, Online. Association for Computational Linguistics.
+
+\bibitem[{Geiger et~al.(2023)Geiger, Wu, Potts, Icard, and Goodman}]{geiger2023finding}
+Atticus Geiger, Zhengxuan Wu, Christopher Potts, Thomas Icard, and Noah~D. Goodman. 2023.
+\newblock Finding alignments between interpretable causal variables and distributed neural representations.
+\newblock In \emph{Proceedings of Causal Learning and Reasoning 2024.}
+
+\bibitem[{Greenberg(1963)}]{greenberg1963universals}
+Joseph Greenberg. 1963.
+\newblock \href {https://doi.org/https://doi.org/10.1002/wcs.1195} {Some universals of grammar with particular reference to the order of meaningful elements}.
+\newblock \emph{Universals of Language}, pages 73--113.
+
+\bibitem[{Hahn(2020)}]{hahn2020theoretical}
+Michael Hahn. 2020.
+\newblock \href {https://doi.org/10.1162/tacl_a_00306} {Theoretical limitations of self-attention in neural sequence models}.
+\newblock \emph{Transactions of the Association for Computational Linguistics}, 8:156--171.
+
+\bibitem[{Hahn et~al.(2021)Hahn, Degen, and Futrell}]{Hahn2021}
+Michael Hahn, Judith Degen, and Richard Futrell. 2021.
+\newblock \href {https://doi.org/10.1037/rev0000269} {Modeling word and morpheme order in natural language as an efficient trade-off of memory and surprisal.}
+\newblock \emph{Psychological Review}, 128(4):726–756.
+
+\bibitem[{Hahn et~al.(2020)Hahn, Jurafsky, and Futrell}]{hahnetal2020universals}
+Michael Hahn, Dan Jurafsky, and Richard Futrell. 2020.
+\newblock \href {https://doi.org/10.1073/pnas.1910923117} {Universals of word order reflect optimization of grammars for efficient communication}.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 117(5):2347--2353.
+
+\bibitem[{Hale(2001)}]{hale-2001-probabilistic}
+John Hale. 2001.
+\newblock \href {https://aclanthology.org/N01-1021} {A probabilistic {E}arley parser as a psycholinguistic model}.
+\newblock In \emph{Second Meeting of the North {A}merican Chapter of the Association for Computational Linguistics}.
+
+\bibitem[{Hao et~al.(2018)Hao, Merrill, Angluin, Frank, Amsel, Benz, and Mendelsohn}]{hao-etal-2018-context}
+Yiding Hao, William Merrill, Dana Angluin, Robert Frank, Noah Amsel, Andrew Benz, and Simon Mendelsohn. 2018.
+\newblock \href {https://doi.org/10.18653/v1/W18-5433} {Context-free transductions with neural stacks}.
+\newblock In \emph{Proceedings of the 2018 {EMNLP} Workshop {B}lackbox{NLP}: Analyzing and Interpreting Neural Networks for {NLP}}, pages 306--315, Brussels, Belgium. Association for Computational Linguistics.
+
+\bibitem[{Hauser et~al.(2002)Hauser, Chomsky, and Fitch}]{hauser2002faculty}
+Marc~D. Hauser, Noam Chomsky, and W.~Tecumseh Fitch. 2002.
+\newblock \href {https://doi.org/10.1126/science.298.5598.1569} {The faculty of language: What is it, who has it, and how did it evolve?}
+\newblock \emph{Science}, 298(5598):1569--1579.
+
+\bibitem[{Hessel and Schofield(2021)}]{hessel-schofield-2021-effective}
+Jack Hessel and Alexandra Schofield. 2021.
+\newblock \href {https://doi.org/10.18653/v1/2021.acl-short.27} {How effective is {BERT} without word ordering? implications for language understanding and data privacy}.
+\newblock In \emph{Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 2: Short Papers)}, pages 204--211, Online. Association for Computational Linguistics.
+
+\bibitem[{Hewitt et~al.(2020)Hewitt, Hahn, Ganguli, Liang, and Manning}]{hewitt-etal-2020-rnns}
+John Hewitt, Michael Hahn, Surya Ganguli, Percy Liang, and Christopher~D. Manning. 2020.
+\newblock \href {https://doi.org/10.18653/v1/2020.emnlp-main.156} {{RNN}s can generate bounded hierarchical languages with optimal memory}.
+\newblock In \emph{Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)}, pages 1978--2010, Online. Association for Computational Linguistics.
+
+\bibitem[{Hu et~al.(2020)Hu, Gauthier, Qian, Wilcox, and Levy}]{hu-etal-2020-systematic}
+Jennifer Hu, Jon Gauthier, Peng Qian, Ethan Wilcox, and Roger Levy. 2020.
+\newblock \href {https://doi.org/10.18653/v1/2020.acl-main.158} {A systematic assessment of syntactic generalization in neural language models}.
+\newblock In \emph{Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics}, pages 1725--1744, Online. Association for Computational Linguistics.
+
+\bibitem[{Huang et~al.(2023)Huang, Zelikman, Chen, Wu, Valiant, and Liang}]{huang2023lexinvariant}
+Qian Huang, Eric Zelikman, Sarah~Li Chen, Yuhuai Wu, Gregory Valiant, and Percy Liang. 2023.
+\newblock \href {http://arxiv.org/abs/2305.16349} {Lexinvariant language models}.
+
+\bibitem[{Jin et~al.(2018)Jin, Doshi-Velez, Miller, Schuler, and Schwartz}]{jin-etal-2018-depth}
+Lifeng Jin, Finale Doshi-Velez, Timothy Miller, William Schuler, and Lane Schwartz. 2018.
+\newblock \href {https://doi.org/10.18653/v1/D18-1292} {Depth-bounding is effective: Improvements and evaluation of unsupervised {PCFG} induction}.
+\newblock In \emph{Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing}, pages 2721--2731, Brussels, Belgium. Association for Computational Linguistics.
+
+\bibitem[{Joshi(1985)}]{joshi1985TAG}
+Aravind~K. Joshi. 1985.
+\newblock \href {https://doi.org/10.1017/CBO9780511597855.007} {\emph{Tree adjoining grammars: How much context-sensitivity is required to provide reasonable structural descriptions?}}, Studies in Natural Language Processing, page 206–250. Cambridge University Press.
+
+\bibitem[{Karamcheti et~al.(2021)Karamcheti, Orr, Bolton, Zhang, Goel, Narayan, Bommasani, Narayanan, Hashimoto, Jurafsky, Manning, Potts, Ré, and Liang}]{Mistral}
+Siddharth* Karamcheti, Laurel* Orr, Jason Bolton, Tianyi Zhang, Karan Goel, Avanika Narayan, Rishi Bommasani, Deepak Narayanan, Tatsunori Hashimoto, Dan Jurafsky, Christopher~D. Manning, Christopher Potts, Christopher Ré, and Percy Liang. 2021.
+\newblock \href {https://github.com/stanford-crfm/mistral} {Mistral - a journey towards reproducible language model training}.
+
+\bibitem[{Karlsson(2007)}]{karlsson2007constraints}
+Fred Karlsson. 2007.
+\newblock \href {https://doi.org/10.1017/S0022226707004616} {Constraints on multiple center-embedding of clauses}.
+\newblock \emph{Journal of Linguistics}, 43(2):365–392.
+
+\bibitem[{Kazemnejad et~al.(2023)Kazemnejad, Padhi, Ramamurthy, Das, and Reddy}]{kazemnejad2023impact}
+Amirhossein Kazemnejad, Inkit Padhi, Karthikeyan~Natesan Ramamurthy, Payel Das, and Siva Reddy. 2023.
+\newblock The impact of positional encoding on length generalization in transformers.
+\newblock \emph{arXiv preprint arXiv:2305.19466}.
+
+\bibitem[{Levy(2008)}]{levy2008expectation}
+Roger Levy. 2008.
+\newblock \href {https://doi.org/https://doi.org/10.1016/j.cognition.2007.05.006} {Expectation-based syntactic comprehension}.
+\newblock \emph{Cognition}, 106(3):1126--1177.
+
+\bibitem[{Mansfield and Kemp(2023)}]{mansfield2023emergence}
+John Mansfield and Charles Kemp. 2023.
+\newblock The emergence of grammatical structure from inter-predictability.
+
+\bibitem[{Marvin and Linzen(2018)}]{marvin-linzen-2018-targeted}
+Rebecca Marvin and Tal Linzen. 2018.
+\newblock \href {https://doi.org/10.18653/v1/D18-1151} {Targeted syntactic evaluation of language models}.
+\newblock In \emph{Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing}, pages 1192--1202, Brussels, Belgium. Association for Computational Linguistics.
+
+\bibitem[{Merrill(2019)}]{merrill-2019-sequential}
+William Merrill. 2019.
+\newblock \href {https://doi.org/10.18653/v1/W19-3901} {Sequential neural networks as automata}.
+\newblock In \emph{Proceedings of the Workshop on Deep Learning and Formal Languages: Building Bridges}, pages 1--13, Florence. Association for Computational Linguistics.
+
+\bibitem[{Merrill et~al.(2020)Merrill, Weiss, Goldberg, Schwartz, Smith, and Yahav}]{merrill-etal-2020-formal}
+William Merrill, Gail Weiss, Yoav Goldberg, Roy Schwartz, Noah~A. Smith, and Eran Yahav. 2020.
+\newblock \href {https://doi.org/10.18653/v1/2020.acl-main.43} {A formal hierarchy of {RNN} architectures}.
+\newblock In \emph{Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics}, pages 443--459, Online. Association for Computational Linguistics.
+
+\bibitem[{Mitchell and Bowers(2020)}]{mitchell-bowers-2020-priorless}
+Jeff Mitchell and Jeffrey Bowers. 2020.
+\newblock \href {https://doi.org/10.18653/v1/2020.coling-main.451} {Priorless recurrent networks learn curiously}.
+\newblock In \emph{Proceedings of the 28th International Conference on Computational Linguistics}, pages 5147--5158, Barcelona, Spain (Online). International Committee on Computational Linguistics.
+
+\bibitem[{Moro et~al.(2023)Moro, Greco, and Cappa}]{moro2023impossible}
+Andrea Moro, Matteo Greco, and Stefano~F. Cappa. 2023.
+\newblock \href {https://doi.org/https://doi.org/10.1016/j.cortex.2023.07.003} {Large languages, impossible languages and human brains}.
+\newblock \emph{Cortex}, 167:82--85.
+
+\bibitem[{Murty et~al.(2023)Murty, Sharma, Andreas, and Manning}]{murty2023pushdown}
+Shikhar Murty, Pratyusha Sharma, Jacob Andreas, and Christopher~D. Manning. 2023.
+\newblock \href {http://arxiv.org/abs/2310.19089} {Pushdown layers: Encoding recursive structure in transformer language models}.
+
+\bibitem[{Musso et~al.(2003)Musso, Moro, Glauche, Rijntjes, Reichenbach, B{\"u}chel, and Weiller}]{musso2003broca}
+Mariacristina Musso, Andrea Moro, Volkmar Glauche, Michel Rijntjes, J{\"u}rgen Reichenbach, Christian B{\"u}chel, and Cornelius Weiller. 2003.
+\newblock Broca's area and the language instinct.
+\newblock \emph{Nature Neuroscience}, 6(7):774--781.
+
+\bibitem[{Nefdt(2024)}]{Nefdt_2024}
+Ryan~M. Nefdt. 2024.
+\newblock \emph{The Philosophy of Theoretical Linguistics: A Contemporary Outlook}.
+\newblock Cambridge University Press.
+
+\bibitem[{Papadimitriou et~al.(2022)Papadimitriou, Futrell, and Mahowald}]{papadimitriou-etal-2022-classifying-grammatical}
+Isabel Papadimitriou, Richard Futrell, and Kyle Mahowald. 2022.
+\newblock \href {https://doi.org/10.18653/v1/2022.acl-short.71} {When classifying grammatical role, {BERT} doesn{'}t care about word order... except when it matters}.
+\newblock In \emph{Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)}, pages 636--643, Dublin, Ireland. Association for Computational Linguistics.
+
+\bibitem[{Papadimitriou and Jurafsky(2023)}]{papadimitriou2023injecting}
+Isabel Papadimitriou and Dan Jurafsky. 2023.
+\newblock \href {http://arxiv.org/abs/2304.13060} {Injecting structural hints: Using language models to study inductive biases in language learning}.
+
+\bibitem[{Pham et~al.(2021)Pham, Bui, Mai, and Nguyen}]{pham-etal-2021-order}
+Thang Pham, Trung Bui, Long Mai, and Anh Nguyen. 2021.
+\newblock \href {https://doi.org/10.18653/v1/2021.findings-acl.98} {Out of order: How important is the sequential order of words in a sentence in natural language understanding tasks?}
+\newblock In \emph{Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021}, pages 1145--1160, Online. Association for Computational Linguistics.
+
+\bibitem[{Prasad et~al.(2019)Prasad, van Schijndel, and Linzen}]{prasad-etal-2019-using}
+Grusha Prasad, Marten van Schijndel, and Tal Linzen. 2019.
+\newblock \href {https://doi.org/10.18653/v1/K19-1007} {Using priming to uncover the organization of syntactic representations in neural language models}.
+\newblock In \emph{Proceedings of the 23rd Conference on Computational Natural Language Learning (CoNLL)}, pages 66--76, Hong Kong, China. Association for Computational Linguistics.
+
+\bibitem[{Pérez et~al.(2021)Pérez, Barceló, and Marinkovic}]{perez2021attention}
+Jorge Pérez, Pablo Barceló, and Javier Marinkovic. 2021.
+\newblock \href {http://jmlr.org/papers/v22/20-302.html} {Attention is {T}uring-complete}.
+\newblock \emph{Journal of Machine Learning Research}, 22(75):1--35.
+
+\bibitem[{Qi et~al.(2020)Qi, Zhang, Zhang, Bolton, and Manning}]{qi2020stanza}
+Peng Qi, Yuhao Zhang, Yuhui Zhang, Jason Bolton, and Christopher~D. Manning. 2020.
+\newblock Stanza: A {Python} natural language processing toolkit for many human languages.
+\newblock In \emph{Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: System Demonstrations}.
+
+\bibitem[{Radford et~al.(2018)Radford, Narasimhan, Salimans, and Sutskever}]{radford2018improving}
+Alec Radford, Karthik Narasimhan, Tim Salimans, and Ilya Sutskever. 2018.
+\newblock \href {https://openai.com/blog/language-unsupervised/} {Improving language understanding by generative pre-training}.
+\newblock Ms, OpenAI.
+
+\bibitem[{Radford et~al.(2019)Radford, Wu, Child, Luan, Amodei, and Sutskever}]{radford2019languagemodels}
+Alec Radford, Jeff Wu, Rewon Child, David Luan, Dario Amodei, and Ilya Sutskever. 2019.
+\newblock Language models are unsupervised multitask learners.
+\newblock Ms, OpenAI.
+
+\bibitem[{Shieber(1985)}]{shieber1985evidence}
+Stuart~M. Shieber. 1985.
+\newblock Evidence against the context-freeness of natural language.
+\newblock \emph{Linguistics and Philosophy}, 8(3):333--343.
+
+\bibitem[{Sinha et~al.(2021)Sinha, Jia, Hupkes, Pineau, Williams, and Kiela}]{sinha-etal-2021-masked}
+Koustuv Sinha, Robin Jia, Dieuwke Hupkes, Joelle Pineau, Adina Williams, and Douwe Kiela. 2021.
+\newblock \href {https://doi.org/10.18653/v1/2021.emnlp-main.230} {Masked language modeling and the distributional hypothesis: Order word matters pre-training for little}.
+\newblock In \emph{Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing}, pages 2888--2913, Online and Punta Cana, Dominican Republic. Association for Computational Linguistics.
+
+\bibitem[{Tenney et~al.(2019)Tenney, Xia, Chen, Wang, Poliak, McCoy, Kim, Durme, Bowman, Das, and Pavlick}]{tenney2019probing}
+Ian Tenney, Patrick Xia, Berlin Chen, Alex Wang, Adam Poliak, R.~Thomas McCoy, Najoung Kim, Benjamin~Van Durme, Samuel~R. Bowman, Dipanjan Das, and Ellie Pavlick. 2019.
+\newblock \href {https://openreview.net/forum?id=SJzSgnRcKX} {What do you learn from context? {Probing} for sentence structure in contextualized word representations}.
+\newblock In \emph{International Conference on Learning Representations}.
+
+\bibitem[{Vaswani et~al.(2017)Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser, and Polosukhin}]{vaswani2017attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan~N Gomez, \L~ukasz Kaiser, and Illia Polosukhin. 2017.
+\newblock \href {https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf} {Attention is all you need}.
+\newblock In \emph{Advances in Neural Information Processing Systems}, volume~30. Curran Associates, Inc.
+
+\bibitem[{Warstadt et~al.(2023)Warstadt, Choshen, Mueller, Williams, Wilcox, and Zhuang}]{warstadt2023papers}
+Alex Warstadt, Leshem Choshen, Aaron Mueller, Adina Williams, Ethan Wilcox, and Chengxu Zhuang. 2023.
+\newblock \href {http://arxiv.org/abs/2301.11796} {Call for papers -- the {BabyLM} challenge: Sample-efficient pretraining on a developmentally plausible corpus}.
+
+\bibitem[{Weiss et~al.(2018)Weiss, Goldberg, and Yahav}]{weiss-etal-2018-practical}
+Gail Weiss, Yoav Goldberg, and Eran Yahav. 2018.
+\newblock \href {https://doi.org/10.18653/v1/P18-2117} {On the practical computational power of finite precision {RNN}s for language recognition}.
+\newblock In \emph{Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)}, pages 740--745, Melbourne, Australia. Association for Computational Linguistics.
+
+\bibitem[{Wilcox et~al.(2018)Wilcox, Levy, Morita, and Futrell}]{wilcox-etal-2018-rnn}
+Ethan Wilcox, Roger Levy, Takashi Morita, and Richard Futrell. 2018.
+\newblock \href {https://doi.org/10.18653/v1/W18-5423} {What do {RNN} language models learn about filler{--}gap dependencies?}
+\newblock In \emph{Proceedings of the 2018 {EMNLP} Workshop {B}lackbox{NLP}: Analyzing and Interpreting Neural Networks for {NLP}}, pages 211--221, Brussels, Belgium. Association for Computational Linguistics.
+
+\bibitem[{Wilcox et~al.(2023)Wilcox, Futrell, and Levy}]{wilcox2023syntactic}
+Ethan~Gotlieb Wilcox, Richard Futrell, and Roger Levy. 2023.
+\newblock \href {https://doi.org/10.1162/ling_a_00491} {Using computational models to test syntactic learnability}.
+\newblock \emph{Linguistic Inquiry}, pages 1--44.
+
+\bibitem[{Wu et~al.(2023{\natexlab{a}})Wu, D'Oosterlinck, Geiger, Zur, and Potts}]{pmlr-v202-wu23b}
+Zhengxuan Wu, Karel D'Oosterlinck, Atticus Geiger, Amir Zur, and Christopher Potts. 2023{\natexlab{a}}.
+\newblock \href {https://proceedings.mlr.press/v202/wu23b.html} {Causal proxy models for concept-based model explanations}.
+\newblock In \emph{Proceedings of the 40th International Conference on Machine Learning}, volume 202 of \emph{Proceedings of Machine Learning Research}, pages 37313--37334. PMLR.
+
+\bibitem[{Wu et~al.(2023{\natexlab{b}})Wu, Geiger, Icard, Potts, and Goodman}]{wu-etal-2023-Boundless-DAS}
+Zhengxuan Wu, Atticus Geiger, Thomas Icard, Christopher Potts, and Noah Goodman. 2023{\natexlab{b}}.
+\newblock \href {https://proceedings.neurips.cc/paper_files/paper/2023/file/f6a8b109d4d4fd64c75e94aaf85d9697-Paper-Conference.pdf} {Interpretability at scale: Identifying causal mechanisms in {Alpaca}}.
+\newblock In \emph{Advances in Neural Information Processing Systems}, volume~36, pages 78205--78226. Curran Associates, Inc.
+
+\bibitem[{Wu et~al.(2022)Wu, Geiger, Rozner, Kreiss, Lu, Icard, Potts, and Goodman}]{wu-etal-2022-causal}
+Zhengxuan Wu, Atticus Geiger, Joshua Rozner, Elisa Kreiss, Hanson Lu, Thomas Icard, Christopher Potts, and Noah Goodman. 2022.
+\newblock \href {https://doi.org/10.18653/v1/2022.naacl-main.318} {Causal distillation for language models}.
+\newblock In \emph{Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies}, pages 4288--4295, Seattle, United States. Association for Computational Linguistics.
+
+\end{thebibliography}
