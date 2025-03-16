@@ -1,5 +1,8 @@
 # Bringing Suzhou Numerals into the Digital Age: A Dataset and Recognition Study on Ancient Chinese Trade Records
 
+## Overview
+This project aims to digitize Suzhou numerals—an ancient Chinese numerical system used in historical trade records—by providing a curated dataset and a recognition model. Built upon [GitYCC/crnn-pytorch](https://github.com/GitYCC/crnn-pytorch), we adapt and enhance it to recognize these unique brush-written characters, bridging the gap between historical archives and modern OCR technology.
+
 [**ALP 2025**](https://www.ancientnlp.com/alp2025/) Co-located with [**NAACL2025**](https://2025.naacl.org/)
 
 This project is based on [GitYCC/crnn-pytorch](https://github.com/GitYCC/crnn-pytorch).  
@@ -10,23 +13,26 @@ We have modified and extended the original code for Suzhou numeral recognition.
 - Adjusted model parameters for our dataset
 - Enhanced data preprocessing and augmentation
 
-## Abstract
+## About the Project
+Suzhou numerals were once widely used in Chinese commerce from the Song Dynasty to the early 20th century. However, they are rarely supported in modern OCR systems, limiting access to historical trade documents. This project introduces:
+- A dataset of 773 expert-annotated Suzhou numeral samples from Qing-era ledgers.
+- A statistical analysis of character usage in historical bookkeeping.
+- A baseline recognition model (CRNN with CTC loss) tailored for these low-resource, brush-written numerals.
 
-Suzhou numerals, a specialized numerical notation system historically used in Chinese commerce and accounting, played a pivotal role in financial transactions from the Song Dynasty to the early 20th century. Despite their historical significance, they remain largely absent from modern OCR benchmarks, limiting computational access to archival trade documents. This paper presents a curated dataset of 773 expert-annotated Suzhou numeral samples extracted from late Qing-era trade ledgers. We provide a statistical analysis of character distributions, offering insights into their real-world usage in historical bookkeeping. Additionally, we evaluate baseline performance with a handwritten text recognition (HTR) model, highlighting the challenges of recognizing low-resource brush-written numerals. By introducing this dataset and initial benchmark results, we aim to facilitate research in historical documentation in ancient Chinese characters, advancing the digitization of early Chinese financial records.
+Our goal is to enable researchers and developers to digitize and study ancient Chinese financial records.
 
-## Dataset Source
-The dataset used in this project is derived from historical trade ledgers. Below is an example image from our data source:  
+## Dataset and Model in Action
+### Dataset Source
+Our dataset comes from late Qing-era trade ledgers, such as this excerpt from the Hechang Firm in Nagasaki (*長崎和昌號*) (dated 1880s):
 
-![Suzhou Numeral Ledger](assets/KM_48690-0002-u.jpg)  
+![Suzhou Numeral Ledger](assets/KM_48690-0002-u.jpg)
 
-**Description**: Excerpt from a late Qing-era accounting ledger (dated the 4th year of Emperor Guangxu’s reign), preserved in the Hechang Firm in Nagasaki (*長崎和昌號*) archives.
-
-## Example of Model Prediction
-Below is an example illustrating a misprediction by our CRNN with CTC loss model:  
+### Model Prediction Example
+Here’s an example of how our CRNN model performs—and where it struggles:
 
 <img src="assets/error_3.png" width="450" height="150" style="display: block; margin-left: auto; margin-right: auto;">
 
-**Description**: An example of misprediction. The lowest stroke of the second character '〨' and the top left stroke of the third character '〩' are almost connected. As a result, our model identifies these two strokes as a single stroke and mistakenly recognizes the second character as '〧'.
+**What’s Happening**: The model misreads '〨〩' as '〧' because the strokes between the characters are nearly connected, a common challenge with brush-written numerals.
 
 ## Installation & Usage
 
