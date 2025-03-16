@@ -20,7 +20,9 @@ Suzhou numerals, a specialized numerical notation system historically used in Ch
 
 ## Dataset Source
 The dataset used in this project is derived from historical trade ledgers. Below is an example image from our data source:  
+
 ![Suzhou Numeral Ledger](assets/KM_48690-0002-u.jpg)  
+
 **Description**: Excerpt from a late Qing-era accounting ledger (dated the 4th year of Emperor Guangxu’s reign), preserved in the Hechang Firm in Nagasaki (*長崎和昌號*) archives.
 
 ## Example of Model Prediction
