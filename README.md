@@ -93,9 +93,7 @@ This project is based on [GitYCC/crnn-pytorch](https://github.com/GitYCC/crnn-py
 
 
 
-Here’s how you can add lively and engaging emojis to your GitHub README to make it more visually appealing, while keeping all other content unchanged. I’ve strategically placed emojis to highlight key sections, add personality, and draw attention without overwhelming the text.
 
-```markdown
 # Bringing Suzhou Numerals into the Digital Age: A Dataset and Recognition Study on Ancient Chinese Trade Records 🌟📜
 
 ## Overview 🌈
@@ -186,7 +184,7 @@ The original implementation can be found at:
 
 ## Acknowledgment 🙏
 This project is based on [GitYCC/crnn-pytorch](https://github.com/GitYCC/crnn-pytorch), which is licensed under the MIT License.
-```
+
 
 ### Explanation of Emoji Choices:
 1. **Title and Headings**: 🌟, 🌈, ⚙️, 📖, 🎥, 🛠️ add a splash of excitement and relevance to each section.
