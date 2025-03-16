@@ -29,17 +29,18 @@ Below is an example illustrating a misprediction by our CRNN with CTC loss model
 **Description**: An example of misprediction. The lowest stroke of the second character '〨' and the top left stroke of the third character '〩' are almost connected. As a result, our model identifies these two strokes as a single stroke and mistakenly recognizes the second character as '〧'.
 
 ## Installation & Usage
-### Prerequisites
-Ensure you have **Python 3.9** installed. You can check your Python version using:
-
-```bash
-python --version
-```
 
 ### Install Dependencies
-First, install the required Python packages from `requirements.txt`:
+First, create virtual environment and install the required Python packages from `requirements.txt`:
 
 ```bash
+# clone this repo
+git clone https://github.com/koi953215/NaRCan.git
+cd NaRCan
+
+# create environment
+conda create -n suzhou_numeral python=3.9
+conda activate suzhou_numeral
 pip install -r requirements.txt
 ```
 
