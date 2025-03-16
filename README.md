@@ -36,7 +36,7 @@ First, create virtual environment and install the required Python packages from 
 ```bash
 # clone this repo
 git clone https://github.com/morris0401/Suzhou-Numerals-Sequence-Recognition.git
-cd NaRCan
+cd Suzhou-Numerals-Sequence-Recognition
 
 # create environment
 conda create -n suzhou_numeral python=3.9
