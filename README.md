@@ -35,7 +35,7 @@ First, create virtual environment and install the required Python packages from 
 
 ```bash
 # clone this repo
-git clone https://github.com/koi953215/NaRCan.git
+git clone https://github.com/morris0401/Suzhou-Numerals-Sequence-Recognition.git
 cd NaRCan
 
 # create environment
