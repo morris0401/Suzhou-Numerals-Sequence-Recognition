@@ -5,10 +5,6 @@
 This project is based on [GitYCC/crnn-pytorch](https://github.com/GitYCC/crnn-pytorch).  
 We have modified and extended the original code for Suzhou numeral recognition.
 
-## Original Repository
-The original implementation can be found at:  
-🔗 [GitYCC/crnn-pytorch](https://github.com/GitYCC/crnn-pytorch)
-
 ## Modifications
 - Added support for Suzhou numerals
 - Adjusted model parameters for our dataset
@@ -81,6 +77,10 @@ python src/main.py --image_dir ./custom_dataset --batch_size 64 --num_epochs 30
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Original Repository
+The original implementation can be found at:  
+🔗 [GitYCC/crnn-pytorch](https://github.com/GitYCC/crnn-pytorch)
 
 ## Acknowledgment
 This project is based on [GitYCC/crnn-pytorch](https://github.com/GitYCC/crnn-pytorch), which is licensed under the MIT License.
