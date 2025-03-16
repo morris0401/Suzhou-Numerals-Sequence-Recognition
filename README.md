@@ -25,7 +25,7 @@ The dataset used in this project is derived from historical trade ledgers. Below
 
 ## Example of Model Prediction
 Below is an example illustrating a misprediction by our CRNN with CTC loss model:  
-![Misprediction Example](assets/error_3.png  =300x200)  
+<img src="assets/error_3.png" width="300" height="200">
 **Description**: An example of misprediction. The lowest stroke of the second character '〨' and the top left stroke of the third character '〩' are almost connected. As a result, our model identifies these two strokes as a single stroke and mistakenly recognizes the second character as '〧'.
 
 ## Installation & Usage
