@@ -1,6 +1,6 @@
 # Bringing Suzhou Numerals into the Digital Age: A Dataset and Recognition Study on Ancient Chinese Trade Records
 
-[ALP 2025](https://www.ancientnlp.com/alp2025/) Co-located with [NAACL2025](https://2025.naacl.org/)
+[**ALP 2025**](https://www.ancientnlp.com/alp2025/) Co-located with [**NAACL2025**](https://2025.naacl.org/)
 
 This project is based on [GitYCC/crnn-pytorch](https://github.com/GitYCC/crnn-pytorch).  
 We have modified and extended the original code for Suzhou numeral recognition.
