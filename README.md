@@ -83,7 +83,7 @@ python src/main.py --image_dir ./custom_dataset --batch_size 64 --num_epochs 30
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Citation 📖
-```
+```bibtex
 @inproceedings{wu-etal-2025-bringing,
     title = "Bringing Suzhou Numerals into the Digital Age: A Dataset and Recognition Study on {A}ncient {C}hinese Trade Records",
     author = "Wu, Ting-Lin  and
