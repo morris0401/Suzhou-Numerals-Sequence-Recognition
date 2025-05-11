@@ -82,6 +82,31 @@ python src/main.py --image_dir ./custom_dataset --batch_size 64 --num_epochs 30
 ## License 📜
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
+## Citation 📖
+@inproceedings{wu-etal-2025-bringing,
+    title = "Bringing Suzhou Numerals into the Digital Age: A Dataset and Recognition Study on {A}ncient {C}hinese Trade Records",
+    author = "Wu, Ting-Lin  and
+      Chen, Zih-Ching  and
+      Chen, Chen-Yuan  and
+      Chen, Pi-Jhong  and
+      Wang, Li-Chiao",
+    editor = "Anderson, Adam  and
+      Gordin, Shai  and
+      Li, Bin  and
+      Liu, Yudong  and
+      Passarotti, Marco C.  and
+      Sprugnoli, Rachele",
+    booktitle = "Proceedings of the Second Workshop on Ancient Language Processing",
+    month = may,
+    year = "2025",
+    address = "The Albuquerque Convention Center, Laguna",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.alp-1.13/",
+    pages = "105--111",
+    ISBN = "979-8-89176-235-0",
+    abstract = "Suzhou numerals, a specialized numerical no-tation system historically used in Chinese com-merce and accounting, played a pivotal role in financial transactions from the Song Dynasty to the early 20th century. Despite their his-torical significance, they remain largely absent from modern OCR benchmarks, limiting com-putational access to archival trade documents. This paper presents a curated dataset of 773 expert-annotated Suzhou numeral samples ex-tracted from late Qing-era trade ledgers. We provide a statistical analysis of character distri-butions, offering insights into their real-world usage in historical bookkeeping. Additionally, we evaluate baseline performance with hand-written text recognition (HTR) model, high-lighting the challenges of recognizing low-resource brush-written numerals. By introduc-ing this dataset and initial benchmark results, we aim to facilitate research in historical doc-umentation in ancient Chinese characters, ad-vancing the digitization of early Chinese finan-cial records. The dataset is publicly available at our huggingface hub, and our codebase can be accessed at our github repository."
+}
+
 ## Original Repository 🔗
 The original implementation can be found at:  
 🔗 [GitYCC/crnn-pytorch](https://github.com/GitYCC/crnn-pytorch)
