@@ -1,11 +1,12 @@
 # Bringing Suzhou Numerals into the Digital Age: A Dataset and Recognition Study on Ancient Chinese Trade Records 🌟📜
 
+[![Paper](https://img.shields.io/badge/Paper-ACL%20Anthology-ED1C24)](https://aclanthology.org/2025.alp-1.13/)
+[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-FFD21E)](https://huggingface.co/datasets/Morris0401/SuZhou_Numerals)
+
 ## Overview 🌈
 This project aims to digitize Suzhou numerals—an ancient Chinese numerical system used in historical trade records—by providing a curated dataset and a recognition model. Built upon [GitYCC/crnn-pytorch](https://github.com/GitYCC/crnn-pytorch), we adapt and enhance it to recognize these unique brush-written characters, bridging the gap between historical archives and modern OCR technology. 🚀
 
 ### [**ALP 2025**](https://www.ancientnlp.com/alp2025/) Co-located with [**NAACL 2025**](https://2025.naacl.org/) 🎉
-
-🤗 **Dataset:** [Morris0401/SuZhou_Numerals on Hugging Face](https://huggingface.co/datasets/Morris0401/SuZhou_Numerals)
 
 ## Modifications ⚙️
 - Added support for Suzhou numerals ✅
