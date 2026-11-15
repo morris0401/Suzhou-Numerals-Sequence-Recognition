@@ -5,6 +5,8 @@ This project aims to digitize Suzhou numerals—an ancient Chinese numerical sys
 
 ### [**ALP 2025**](https://www.ancientnlp.com/alp2025/) Co-located with [**NAACL 2025**](https://2025.naacl.org/) 🎉
 
+🤗 **Dataset:** [Morris0401/SuZhou_Numerals on Hugging Face](https://huggingface.co/datasets/Morris0401/SuZhou_Numerals)
+
 ## Modifications ⚙️
 - Added support for Suzhou numerals ✅
 - Adjusted model parameters for our dataset 🔧
@@ -12,7 +14,7 @@ This project aims to digitize Suzhou numerals—an ancient Chinese numerical sys
 
 ## About the Project 📖
 Suzhou numerals were once widely used in Chinese commerce from the Song Dynasty to the early 20th century. However, they are rarely supported in modern OCR systems, limiting access to historical trade documents. This project introduces:
-- A dataset of 773 expert-annotated Suzhou numeral samples from Qing-era ledgers. 📊
+- A dataset of 773 expert-annotated Suzhou numeral samples from Qing-era ledgers, available on [Hugging Face](https://huggingface.co/datasets/Morris0401/SuZhou_Numerals). 📊
 - A statistical analysis of character usage in historical bookkeeping. 📈
 - A baseline recognition model (CRNN with CTC loss) tailored for these low-resource, brush-written numerals. 🤖
 
