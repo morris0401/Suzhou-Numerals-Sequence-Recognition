@@ -82,6 +82,11 @@ You can modify these parameters as needed to adjust training and preprocessing b
 python src/main.py --image_dir ./custom_dataset --batch_size 64 --num_epochs 30
 ```
 
+## Contact 📬
+For questions about the code or dataset, please contact Ting-Lin Wu (吳定霖):
+- morris0401.cs11@nycu.edu.tw
+- morris0401@gmail.com
+
 ## License 📜
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
